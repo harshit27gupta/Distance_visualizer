@@ -112,30 +112,7 @@ The application can be customized through:
 - **Time Complexity**: O((V + E) log V)
 - **Space Complexity**: O(V)
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- JavaFX team for the excellent UI framework
-- Maven community for build tools
-- Open source contributors and algorithm researchers
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-- Open an issue on GitHub
-- Check the existing issues for solutions
-- Review the code documentation
 
 ## 🔮 Future Enhancements
 
@@ -146,6 +123,3 @@ If you encounter any issues or have questions:
 - [ ] Mobile application version
 - [ ] Web-based version using JavaFX WebView
 
----
-
-**Happy Maze Solving! 🧩✨**
